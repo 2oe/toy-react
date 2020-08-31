@@ -1,1 +1,2 @@
-# toy-react
+# ToyReact
+Learning ToyReact
